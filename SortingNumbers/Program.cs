@@ -7,7 +7,7 @@ namespace SortingNumbers
     {
         static void Main(string[] args)
         {
-            int[] numbers = { 10, 9, 3, 4, 5, 6, 7, 8, 2, 1};
+            int[] numbers = { 10, 9, 3, 4, 5, 6, 7, 8, 2, 1 };
 
             Console.WriteLine("До:");
 
